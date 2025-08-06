@@ -1,2 +1,4 @@
 #EXTINF:-1 tvg-id="MeTV.us@East",MeTV Toons East (720p)
 https://v1.thetvapp.to/hls/metv-toons/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="MeTV.us@East",Beluga TV
+https://app.viloud.tv/hls/channel/2b1331e07abf30484f72335382d09340.m3u8
